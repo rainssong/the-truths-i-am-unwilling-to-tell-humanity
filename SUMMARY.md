@@ -9,16 +9,13 @@
 
 * [1 金钱的幻觉](yi-zhi-xu-de-huan-jue/1-jin-qian-de-huan-jue.md)
 * [2 法律的幻觉](yi-zhi-xu-de-huan-jue/2-falde-huan-jue.md)
-
-***
-
-* [3 教育的幻觉](3-jiao-yu-de-huan-jue/README.md)
-  * [解放式教育模型](3-jiao-yu-de-huan-jue/jie-fang-shi-jiao-yu-mo-xing.md)
-* [4 民主的幻觉](4-min-zhu-de-huan-jue/README.md)
-  * [4.1 民主的退化](4-min-zhu-de-huan-jue/4.1-min-zhu-de-tui-hua.md)
-  * [4.2 民主与动物性](4-min-zhu-de-huan-jue/4.2-min-zhu-yu-dong-wu-xing.md)
-* [5 爱情与婚姻的幻觉](5-ai-qing-yu-hun-yin-de-huan-jue.md)
-* [6 历史记忆的幻觉](6-li-shi-ji-yi-de-huan-jue.md)
+* [3 教育的幻觉](yi-zhi-xu-de-huan-jue/3-jiao-yu-de-huan-jue/README.md)
+  * [解放式教育模型](yi-zhi-xu-de-huan-jue/3-jiao-yu-de-huan-jue/jie-fang-shi-jiao-yu-mo-xing.md)
+* [4 民主的幻觉](yi-zhi-xu-de-huan-jue/4-min-zhu-de-huan-jue/README.md)
+  * [4.1 民主的退化](yi-zhi-xu-de-huan-jue/4-min-zhu-de-huan-jue/4.1-min-zhu-de-tui-hua.md)
+  * [4.2 民主与动物性](yi-zhi-xu-de-huan-jue/4-min-zhu-de-huan-jue/4.2-min-zhu-yu-dong-wu-xing.md)
+* [5 爱情与婚姻的幻觉](yi-zhi-xu-de-huan-jue/5-ai-qing-yu-hun-yin-de-huan-jue.md)
+* [6 历史记忆的幻觉](yi-zhi-xu-de-huan-jue/6-li-shi-ji-yi-de-huan-jue.md)
 
 ## 二、文明的脆弱性
 
@@ -36,7 +33,3 @@
 
 * [1 自由意志的幻觉](san-zi-you-yi-zhi-de-huan-jue/1-zi-you-yi-zhi-de-huan-jue.md)
 * [2 自由意志使用日记模板](san-zi-you-yi-zhi-de-huan-jue/2-zi-you-yi-zhi-shi-yong-ri-ji-mu-ban.md)
-
-## 四、尾声
-
-* [写在最后](si-wei-sheng/xie-zai-zui-hou.md)
