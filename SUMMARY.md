@@ -1,14 +1,13 @@
 # Table of contents
 
-* [封面](README.md)
-* [自序](zi-xu.md)
+* [自序](README.md)
 * [引子、我爱撒点小谎](yin-zi.md)
 * [零、人类文明是种幻觉](ling-ren-lei-wen-ming-shi-zhong-huan-jue.md)
 * [一、秩序的幻觉](yi-zhi-xu-de-huan-jue/README.md)
   * [1 金钱的幻觉](yi-zhi-xu-de-huan-jue/1-jin-qian-de-huan-jue.md)
   * [2 法律的幻觉](yi-zhi-xu-de-huan-jue/2-falde-huan-jue.md)
   * [3 教育的幻觉](yi-zhi-xu-de-huan-jue/3-jiao-yu-de-huan-jue/README.md)
-    * [解放式教育模型](yi-zhi-xu-de-huan-jue/3-jiao-yu-de-huan-jue/jie-fang-shi-jiao-yu-mo-xing.md)
+    * [3.1 解放式教育模型](yi-zhi-xu-de-huan-jue/3-jiao-yu-de-huan-jue/3.1-jie-fang-shi-jiao-yu-mo-xing.md)
   * [4 民主的幻觉](yi-zhi-xu-de-huan-jue/4-min-zhu-de-huan-jue/README.md)
     * [4.1 民主的退化](yi-zhi-xu-de-huan-jue/4-min-zhu-de-huan-jue/4.1-min-zhu-de-tui-hua.md)
     * [4.2 民主与动物性](yi-zhi-xu-de-huan-jue/4-min-zhu-de-huan-jue/4.2-min-zhu-yu-dong-wu-xing.md)

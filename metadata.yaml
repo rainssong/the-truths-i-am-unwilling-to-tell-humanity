@@ -8,6 +8,6 @@ language: zh-CN
 publisher: 自出版
 description: 这本书探讨了人类文明的本质和各种社会制度背后的真相。
 subject: 社会学, 哲学, 文明批判
-cover-image: .gitbook/assets/2222.png
+cover-image: cover.jpg
 toc-title: 目录
 ... 
